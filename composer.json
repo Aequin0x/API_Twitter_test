@@ -1,0 +1,12 @@
+{
+    "name": "webforce/twitterapi",
+    "require": {
+        "abraham/twitteroauth": "^0.6.4"
+    },
+    "authors": [
+        {
+            "name": "Aequin0x",
+            "email": "thibaut.desrame@gmail.com"
+        }
+    ]
+}
